@@ -3,7 +3,7 @@
 <= u/bouncepaw/клавиатуры
 
 ## Клавиатура Ежа
-=> ./jian Жиан (Jian, 鹣)
+=> ./jian Жиан (Jian, 鶼)
 
 ## Клавиатура Steve Key
 => ./kkeyb kKeyb
@@ -23,3 +23,6 @@
 ## Клавиатуры Жорика
 => ./jorian Жориан (Jorian)
 => ./jorne Жорне (Jorne)
+
+## Клавиатура Дана
+=> ./compositum Композитум (Compositum)

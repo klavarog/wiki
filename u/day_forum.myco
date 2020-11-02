@@ -2,7 +2,7 @@ Keyboards list:
 
 * 1. Corne
 <= ./corne
-** => ./corne_i Описание и раскладка
+* => ./corne_i Описание и раскладка
 * 2. Leopold FC900
 <= ./leopoldfc900
 => ./leopoldfc900_i Описание и раскладка

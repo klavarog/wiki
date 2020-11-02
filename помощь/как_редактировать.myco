@@ -61,6 +61,12 @@ Other lines are considered to be paragraphs. You can use //italic//, **bold**, `
 Other lines are considered to be paragraphs. You can use //italic//, **bold**, `monospace`, !!highlighted!!, ^lifted^ or ,,lowered,, text. You can also !!//combine//!! them!
 ```
 
+### Трансклюзия
+```
+<= ./подгифа
+```
+<= ./подгифа
+
 ### Ссылки
 Ссылки находятся на отдельной строке, начинаются с `=>`. Называйте эту стрелочку ракетой, а такие ссылки — ракетными. Обычные будут потом. На строчке с ракетной ссылкой адрес идёт до первого пробела. Если после пробела есть текст, в финальном документе будет показан этот текст, а не адрес.
 

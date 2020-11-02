@@ -1,0 +1,62 @@
+Чтобы отредактировать гифу, нажмите на кнопку `Edit`. Можно редактировать гифы, которых ещё нет.
+
+## Разметка
+Эта вики использует свою особую разметку, микоразметку. Она пока отстаёт по фичам, новые фичи в процессе разработки.
+
+### Headings
+There are six levels of headings:
+```
+# level 1
+## level 2
+### level 3
+#### level 4
+##### level 5
+###### level 6
+```
+# level 1
+## level 2
+### level 3
+#### level 4
+##### level 5
+###### level 6
+
+You'll rarely need more than 3.
+
+You //must// put a space after the octothrops (#).
+
+### Lists
+You can use unordered lists:
+```
+* list element 1
+* list element 2
+```
+
+You //must// put a space after the asterisk (*).
+
+### Rocket links
+```
+=> where
+=> where display text
+```
+=> wikilink
+
+### Blockquotes
+```
+> quote 1
+> quote 2
+```
+> quote 1
+> quote 2
+
+### Preformatted blocks
+```
+ ```alt text
+ some code here
+ ```
+```
+
+### Paragraphs
+Other lines are considered to be paragraphs. You can use //italic//, **bold**, `monospace`, !!highlighted!!, ^lifted^ or ,,lowered,, text. You can also !!//combine//!! them!
+```
+Other lines are considered to be paragraphs. You can use //italic//, **bold**, `monospace`, !!highlighted!!, ^lifted^ or ,,lowered,, text. You can also !!//combine//!! them!
+```

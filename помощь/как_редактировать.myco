@@ -3,62 +3,53 @@
 ## Разметка
 Эта вики использует свою особую разметку, микоразметку. Она пока отстаёт по фичам, новые фичи в процессе разработки.
 
-### Headings
-There are six levels of headings:
+### Заголовки
+Доступно 6 уровней заголовков:
 ```
-# level 1
-## level 2
-### level 3
-#### level 4
-##### level 5
-###### level 6
+# уровень 1
+## уровень 2
+### уровень 3
+#### уровень 4
+##### уровень 5
+###### уровень 6
 ```
-# level 1
-## level 2
-### level 3
-#### level 4
-##### level 5
-###### level 6
+# уровень 1
+## уровень 2
+### уровень 3
+#### уровень 4
+##### уровень 5
+###### уровень 6
 
-You'll rarely need more than 3.
+Редко нужно больше трёх.
 
-You //must// put a space after the octothrops (#).
+Вы //должны// ставить пробел после октоторпов (#), иначе не засчитается за заголовок.
 
-### Lists
-You can use unordered lists:
+### Списки
+Элементы списка начинаются с астериска (*) и пробела и идут до конца строки. Вложенных и нумерованных списков пока нет.
 ```
-* list element 1
-* list element 2
+* элемент списка 1
+* элемент списка 2
 ```
 
-You //must// put a space after the asterisk (*).
+### Цитата 1
+```
+> цитата 1
+> цитата 2
+```
+> цитата 1
+> цитата 2
 
-### Rocket links
+### Преформатированные блоки
 ```
-=> where
-=> where display text
-```
-=> wikilink
-
-### Blockquotes
-```
-> quote 1
-> quote 2
-```
-> quote 1
-> quote 2
-
-### Preformatted blocks
-```
- ```alt text
- some code here
+ ```
+ сюда код
  ```
 ```
 
 ### Paragraphs
-Other lines are considered to be paragraphs. You can use //italic//, **bold**, `monospace`, !!highlighted!!, ^lifted^ or ,,lowered,, text. You can also !!//combine//!! them!
+Остальные строки считаются абзацами. Текст можно делать //наклонным//, **полужирным**, `моноширинным`, !!выделенным!!, ^поднятым^, ,,опущенным,,. Также их можно !!//сочетать//!!. 
 ```
-Other lines are considered to be paragraphs. You can use //italic//, **bold**, `monospace`, !!highlighted!!, ^lifted^ or ,,lowered,, text. You can also !!//combine//!! them!
+Остальные строки считаются абзацами. Текст можно делать //наклонным//, **полужирным**, `моноширинным`, !!выделенным!!, ^поднятым^, ,,опущенным,,. Также их можно !!//сочетать//!!.
 ```
 
 ### Трансклюзия

@@ -1,7 +1,8 @@
 Keyboards list:
 
 * 1. Corne
-<= ./corne СсССССС
+<= ./corne
+=> ./corne_i Описание
 * 2. Leopold FC900
 <= ./leopoldfc900
 * 3. Varmilo VA108M

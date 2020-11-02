@@ -1,0 +1,16 @@
+Первая клавиатура Баунса.
+* Тип: аккордовая.
+* Количество клавиш: 11.
+* Контроллер: промикро.
+* Прошивка: ардуино.
+=> https://github.com/bouncepaw/wakizashi Исходный код
+
+### Цикл статей про ваки
+=> https://bouncepaw.github.io/wakizashi-concept 
+=> https://bouncepaw.github.io/wakizashi-build
+=> https://bouncepaw.github.io/wakizashi-config
+=> https://bouncepaw.github.io/wakizashi-ru
+
+### Связанные клавиатуры
+=> ../эрговаки Эрговаки, эргономичная версия от Ксеноцефала
+=> ../секира Секира, следующая клавиаура Баунса

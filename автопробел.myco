@@ -1,0 +1,40 @@
+При наборе текстов на естественных языках очень удобно, когда после точки или запятой автоматически вводится пробел. Это экономит время, нажатия (иногда даже не одно за раз, см. ЙЦУКЕН) и нервы. Такой пробел называется //автопробелом//.
+
+## Автопробел в QMK Bonus
+Илья для своего Мунляндера написал несколько модулей для ЙМК. Один из них, `lang_shift`, имеет кикоды для автопробела из коробки. 
+
+`AG_CMSP` вводит запятую (независимо от языка) и пробел. 
+
+`AG_SDOT` вводит точку, пробел и нажимает шифт для следующей клавиши.
+
+=> https://github.com/optozorax/moonlander/tree/master/lang_shift Смотрите документацию к lang_shift
+
+## Автопробел в QMK своими силами
+Код, если у вас чистый непатченный ЙМК ↓. Он работает только для одного языка. Реализация поддержки других языков зависит от того, как у вас они реализованы вообще.
+```c
+// В process_record_user
+// ...
+case KK_DTSP:
+if (record->event.pressed) {
+   tap_code16(KC_DOT);
+   tap_code16(KC_SPC);
+}
+return false;
+```
+
+## Автопробел после точки без шифта в QMK Bonus своими силами
+Илья написал другой модуль, `arbitrary_keycode`. При его использовании код такой ↓. Он работает для двух языков.
+```c
+// В process_record_user
+// ...
+case KK_DTSP:
+if (record->event.pressed) {
+   press_arbitrary_keycode(AG_DOT, true);
+   press_arbitrary_keycode(AG_DOT, false);
+   press_arbitrary_keycode(KC_SPC, true);
+   press_arbitrary_keycode(KC_SPC, false);
+}
+return false;
+```
+
+=> https://github.com/optozorax/moonlander/tree/master/arbitrary_keycode См. доки

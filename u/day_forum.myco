@@ -1,16 +1,16 @@
 Keyboards list:
 
 * 1. Corne
-<= ./corne
 => ./corne_i Описание и раскладка
+<= ./corne
 * 2. Leopold FC900
-<= ./leopoldfc900
 => ./leopoldfc900_i Описание и раскладка
+<= ./leopoldfc900
 * 3. Varmilo VA108M
-<= ./varmilova108m
 => ./varmilova108m_i Описание и раскладка
+<= ./varmilova108m
 * 4. DataComp FC102
-<= ./datacompfc102
 => ./datacompfc102_i Описание и раскладка
+<= ./datacompfc102
 
 <= ./userpic

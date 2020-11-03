@@ -1,4 +1,5 @@
-img {./avatars/isle_of_dogs.jpg}
+img {
+./avatars/isle_of_dogs.jpg}
 Хостер этой вики. Python программист. 
 .
 .

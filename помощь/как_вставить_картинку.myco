@@ -34,6 +34,16 @@ img {
 u/daninspace/avatars/isle_of_dogs.jpg | 50 { Просто //подпись// }
 }
 
+Можно указывать картинки не только с вики.
+```
+img {
+https://bouncepaw.github.io/fotoj/karabenoj/krb_02.png
+}
+```
+img {
+https://bouncepaw.github.io/fotoj/karabenoj/krb_02.png
+}
+
 ## Способ через трансклюзию
 *. Создаём гифу с любым названием
 *. Загружаем туда любую картинку

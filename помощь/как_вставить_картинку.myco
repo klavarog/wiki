@@ -10,7 +10,7 @@ img {
 u/daninspace/avatars/isle_of_dogs.jpg
 }
 
-Можно задавать размеры картинки.
+Можно задавать размеры картинки. `width*height`
 ```
 img {
 u/daninspace/avatars/isle_of_dogs.jpg | 50

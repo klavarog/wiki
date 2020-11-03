@@ -13,15 +13,15 @@ u/daninspace/avatars/isle_of_dogs.jpg
 Можно задавать размеры картинки.
 ```
 img {
-u/daninspace/avatars/isle_of_dogs.jpg 50
-u/daninspace/avatars/isle_of_dogs.jpg *50
-u/daninspace/avatars/isle_of_dogs.jpg 100*100
+u/daninspace/avatars/isle_of_dogs.jpg | 50
+u/daninspace/avatars/isle_of_dogs.jpg | *50
+u/daninspace/avatars/isle_of_dogs.jpg | 100*100
 }
 ```
 img {
-u/daninspace/avatars/isle_of_dogs.jpg 50
-u/daninspace/avatars/isle_of_dogs.jpg *50
-u/daninspace/avatars/isle_of_dogs.jpg 100*100
+u/daninspace/avatars/isle_of_dogs.jpg | 50
+u/daninspace/avatars/isle_of_dogs.jpg | *50
+u/daninspace/avatars/isle_of_dogs.jpg | 100*100
 }
 
 ## Способ через трансклюзию

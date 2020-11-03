@@ -1,7 +1,33 @@
+## Способ через img{}
+Это предпочитаемый способ. Блок `img{}` задаёт галерею картинок. Можно задать только одну картинку.
+
+```
+img {
+u/daninspace/avatars/isle_of_dogs.jpg
+}
+```
+img {
+u/daninspace/avatars/isle_of_dogs.jpg
+}
+
+Можно задавать размеры картинки.
+```
+img {
+u/daninspace/avatars/isle_of_dogs.jpg 50
+u/daninspace/avatars/isle_of_dogs.jpg *50
+u/daninspace/avatars/isle_of_dogs.jpg 100*100
+}
+```
+img {
+u/daninspace/avatars/isle_of_dogs.jpg 50
+u/daninspace/avatars/isle_of_dogs.jpg *50
+u/daninspace/avatars/isle_of_dogs.jpg 100*100
+}
+
 ## Способ через трансклюзию
-1. Создаём гифу с любым названием
-2. Загружаем туда любую картинку
-3. На странице, куда хотим вставить картинку, пишем
+*. Создаём гифу с любым названием
+*. Загружаем туда любую картинку
+*. На странице, куда хотим вставить картинку, пишем
 ```
 <= имя гифы с картинкой
 ```

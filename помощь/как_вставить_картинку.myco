@@ -20,8 +20,18 @@ u/daninspace/avatars/isle_of_dogs.jpg | 100*100
 ```
 img {
 u/daninspace/avatars/isle_of_dogs.jpg | 50
-u/daninspace/avatars/isle_of_dogs.jpg | *50
+u/daninspace/avatars/isle_of_dogs.jpg | *60
 u/daninspace/avatars/isle_of_dogs.jpg | 100*100
+}
+
+Можно задать подпись. 
+```
+img {
+u/daninspace/avatars/isle_of_dogs.jpg | 50 { Просто //подпись// }
+}
+```
+img {
+u/daninspace/avatars/isle_of_dogs.jpg | 50 { Просто //подпись// }
 }
 
 ## Способ через трансклюзию

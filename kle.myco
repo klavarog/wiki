@@ -10,12 +10,12 @@
 ✅ Добавлена галочка "colored border", которая позволяет убрать некрасивую обводку чёрным цветом, и сделать чтобы обводка вычислялась на основании цвета клавиши (чуть темнее, чем цвет клавиши) (PR [[https://github.com/ijprest/keyboard-layout-editor/pull/269|#269]]).
 ✅ Добавлен стиль "PRETTY", который прописывается в области "Profile / Row:", он делает клавиши чуть более нормализованными по цветам. Но его нельзя просто так включить для старых раскладок, придётся немного перенастроить цвета, чтобы выглядело красиво (PR [[https://github.com/ijprest/keyboard-layout-editor/pull/269|#269]]).
 ✅ Копипаста повёрнутых клавиш работает нормально (PR [[https://github.com/ijprest/keyboard-layout-editor/pull/270|#270]]).
-✅ Пофикшен баг при перемещении повёрнтух клавиш (PR [[https://github.com/ijprest/keyboard-layout-editor/pull/268#268]]).
+✅ Пофикшен баг при перемещении повёрнтух клавиш (PR [[https://github.com/ijprest/keyboard-layout-editor/pull/268|#268]]).
 
-Исходный код форка: [[https://github.com/klavarog/keyboard-layout-editor]]
+Исходный код форка: [[https://github.com/klavarog/keyboard-layout-editor|klavarog/keyboard-layout-editor]]
 
 Видно, что авторы этого форка (я) делали всё колхозно, и не особо старались, так что в вашем праве ругать их, и не пользоваться нашим форком.
 
 ### Примеры раскладок
-[[https://kle.klava.org/#/gists/9a4b993ea6bff1ff0f9b7a33bc755623]] - @optozorax
-[[https://kle.klava.org/#/gists/1de1b01280b34da086f6f1047de7f22e]] - @bouncepaw
+[[https://kle.klava.org/#/gists/9a4b993ea6bff1ff0f9b7a33bc755623]] - [[u/optozorax|@optozorax]]
+[[https://kle.klava.org/#/gists/1de1b01280b34da086f6f1047de7f22e]] - [[u/bouncepaw|@bouncepaw]]

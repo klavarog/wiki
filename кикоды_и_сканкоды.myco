@@ -1,0 +1,17 @@
+В клавиатурах используются понятия **кикод** (key code, код клавиши) и **сканкод** (scan code, код сканирования?). Их надо различать.
+
+## В ЙМК
+Из [[https://docs.qmk.fm/#/reference_glossary?id=keycode|доков]]:
+> A 2-byte number that represents a particular key. 0x00-0xFF are used for Basic Keycodes while 0x100-0xFFFF are used for Quantum Keycodes.
+
+> Двухбайтовое число, которое представляет определённую клавишу. 0x00-0xFF используются для базовых кикодов, а 0x100-0xFFFF для квантовых. 
+
+Из [[https://docs.qmk.fm/#/reference_glossary?id=scancode|доков]]:
+> A 1 byte number that is sent as part of a HID report over USB that represents a single key. These numbers are documented in the HID Usage Tables published by the USB-IF.
+
+> Однобайтовое число, которое отправляется как часть HID-репорта через USB, представляющее клавишу. Они описаны в документе HID Usage Tables, публикуемом USB-IF.
+=> https://www.usb.org/document-library/hid-usage-tables-121 HID Usage Tables 1.21
+
+Собственно, сканкод — код клавиши на простой клавиатуре без слоёв и фокусов. Компьютер от клавиатуры ожидает сканкоды, клавиатура компьютеру отправляет сканкоды.
+
+Но для программируемых клавиатур этого мало, потому что нам могут потребоваться клавиши, которых просто нет в HID Usage Tables. Например, слоефикаторы. Поэтому в ЙМК (и в любом более-менее нормальном клавиатурном фреймворке) этот один байт расширили, вместив туда и сканкоды и свои фишки. Базовые кикоды — кикоды, равные сканкодам. Квантовые — не равные, собственно.

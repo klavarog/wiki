@@ -1,2 +1,3 @@
-# /bin/bash
-ls /
+<script language="javascript">
+alert("message successfully sent")
+</script>

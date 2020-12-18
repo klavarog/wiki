@@ -3,7 +3,7 @@
 => https://docs.qmk.fm/
 
 ## Траблшутинг
-Иногда на GNU+Linux не получается прошивать контроллеры, когда работает. С правами админа исполнить:
+Иногда на GNU+Linux не получается прошивать контроллеры, когда работает сервис ModemManager. С правами админа исполнить (работает на системах с `systemd`, то есть почти всех):
 ```
 systemctl disable ModemManager.service
 systemctl stop ModemManager.service

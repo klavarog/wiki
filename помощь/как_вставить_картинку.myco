@@ -65,13 +65,4 @@ https://bouncepaw.github.io/fotoj/karabenoj/krb_02.png
 <= ./подгифа
 ```
 
-## Хак с HTML
-Это временное решение, которое со временем перестанет поддерживаться.
-```
-> <img width="200" src="/binary/имя гифы с картинкой">
-```
-В значение `width` пишем нужную ширину. Пример:
-```
-> <img width="200" src="/binary/u/day_forum/corne">
-```
-> <img width="200" src="/binary/u/day_forum/corne">
+Других способов нет. Ранее рабочий хак с хтмл больше не работает.

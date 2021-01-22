@@ -1,5 +1,5 @@
 img { https://www.raspberrypi.org/documentation/pico/getting-started/static/pico-board-c87f938e4e889e9cbac0f5bc1ff27f30.png }
-**Raspberry π Pico** — новый микроконтроллер. Обладает низкой ценой и хорошими характеристиками. Должно быть, лучше любой [[arduino]].
+**Raspberry π Pico** — новый микроконтроллер. Обладает низкой ценой и хорошими характеристиками. Должно быть, лучше любой [[../../arduino | arduino]].
 
 > The new flexible microcontroller board from Raspberry Pi.
 
@@ -22,4 +22,5 @@ img { https://www.raspberrypi.org/documentation/pico/getting-started/static/pico
 См. [[https://www.raspberrypi.org/documentation/pico/getting-started/|оф доки]]. Можно программировать на [[lang/Micro Python]] и на скучных [[lang/c]] и [[lang/cpp]].
 
 ## Купить
-Стоит 4 доллара, по идее. Однако в России вроде пока нет продавцов. **TODO:** найти продавцов.
+Стоит 4 доллара, по идее. Однако в России вроде пока нет продавцов.
+**TODO:** найти продавцов.

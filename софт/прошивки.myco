@@ -1,5 +1,5 @@
-=> QMK
-=> TMK
-=> EasyAVR
-=> Arduino
+=> ../QMK
+=> ../TMK
+=> ../EasyAVR
+=> Корпус/Arduino
 => Концепты/FRECK

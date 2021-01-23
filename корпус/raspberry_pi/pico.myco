@@ -21,6 +21,8 @@ img { https://www.raspberrypi.org/documentation/pico/getting-started/static/pico
 ## Применение
 См. [[https://www.raspberrypi.org/documentation/pico/getting-started/|оф доки]]. Можно программировать на [[lang/Micro Python]] и на скучных [[lang/c]] и [[lang/cpp]].
 
+На хабре есть [[https://m.habr.com/ru/amp/post/538778/ | обзорная статья]].
+
 ## Купить
 Стоит 4 доллара, по идее. Однако в России вроде пока нет продавцов.
 **TODO:** найти продавцов.

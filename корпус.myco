@@ -4,5 +4,10 @@
 => https://keeb.io/products/amoeba-single-switch-pcbs
 => https://spacecat.design/products/amoeba-single-switch-pcb-10pcs
 
+## Компоненты
+<= ./Arduino : ..2
+<= ./Raspberry_Pi : ..4
+
 ## Материалы для корпуса
-<= ./пенокартон
+<= ./пенокартон : ..2
+<= ./изоленточное_дно

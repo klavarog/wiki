@@ -1,12 +1,10 @@
 Список полезных компонентов для клавиатуростроения. 
 
-### Амёбы — мини-платы для отдельных свитчей
-=> https://keeb.io/products/amoeba-single-switch-pcbs
-=> https://spacecat.design/products/amoeba-single-switch-pcb-10pcs
 
 ## Компоненты
 <= ./Arduino : ..2
 <= ./Raspberry_Pi : ..4
+<= ./Амебы : ..1
 
 ## Материалы для корпуса
 <= ./пенокартон : ..2

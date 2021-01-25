@@ -6,8 +6,8 @@ https://bouncepaw.github.io/data/img/wakizashi.jpg
 
 * Тип: аккордовая, монотайп.
 * Количество клавиш: 11.
-* Контроллер: [[корпус/arduino/pro micro | pro micro]].
-* Прошивка: [[корпус/arduino | arduino]].
+* Контроллер: [[компонент/arduino/pro micro | pro micro]].
+* Прошивка: [[компонент/arduino | arduino]].
 
 => https://github.com/bouncepaw/wakizashi Исходный код
 

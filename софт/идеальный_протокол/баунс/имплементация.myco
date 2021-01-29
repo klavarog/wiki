@@ -16,3 +16,5 @@
 ```sh
 xdotool key 'e'
 ```
+
+**UPDATE.** Писать драйвера даже под QMK можно, смотри [[https://blog.scottlogic.com/2020/10/09/ergo-rabbit-hole.html|статью]], и там ищи по странице `raw HID mode`.

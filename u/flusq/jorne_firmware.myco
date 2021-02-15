@@ -36,7 +36,7 @@ img {
 Начнем с прошивки. Скачать вы ее можете тут 
 https://github.com/flusq/improved_jorne
 Для начала вы должны скопировать прошивку в `qmk/keyboards/crkbd/keymaps`
-После чего в директории `qmk/` выполнить такие команды:
+После чего из директории `qmk/` выполнить такие команды:
 `sudo make crkbd:improved_jorne:avrdude-split-left`
 ( для левой половинки клавиатуры )
 `sudo make crkbd:improved_jorne:avrdude-split-right`

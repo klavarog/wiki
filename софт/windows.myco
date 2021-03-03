@@ -1,0 +1,8 @@
+Одна из самых популярных ОС, которую нужно поддерживать в плане разработки софта для клавиатур.
+
+## Методы WinAPI для работы с клавиатурами
+Хуки позволяют прослушивать все нажатия клавиатуры, и, если нужно, отменять некоторые из них, чтобы нажать другие. Хуки выставляются функцией [[https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-setwindowshookexa|SetWindowsHookExA]].
+
+Функция [[https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-sendinput|SendInput]] позволяет отправлять нажатие клавиатуры.
+
+=> https://github.com/optozorax/moonlander/tree/master/modbind Посмотреть использование этих функций можно в старых программах optozorax'а

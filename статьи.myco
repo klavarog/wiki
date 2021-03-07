@@ -6,4 +6,10 @@
 => https://optozorax.github.io/moonlander-layout Раскладка Ильи Шепрута
 => https://artemushanov.ru/?go=all/mehanicheskie-klaviatury-1/ Механические клавиатуры, пост 1
 => https://blog.scottlogic.com/2020/10/09/ergo-rabbit-hole.html Down the ergonomic keyboard rabbit hole
+img {
+  https://kevinlynagh.com/keyboards/keyboards.jpg {
+    [[https://kevinlynagh.com/keyboards/|Notes from a year of building keyboards]] (2021-03-07)
+  }
+}
+
 <= ./Хабр

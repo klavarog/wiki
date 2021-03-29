@@ -52,9 +52,9 @@ s — Once Shift
 table {
 ! L ! R
 | Super/Tab | Ctrl
-| Comma/Delete | Period/ESC
+| Comma | Period
 | **Shift/BckSpc** | **Space**
-| Moon | Mars
+| Moon/Delete | Mars/Esc
 | Alt | AltGr
 }
 

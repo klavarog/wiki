@@ -1,6 +1,16 @@
+img {
+	https://github.com/bouncepaw/sagaris/blob/master/src/pic/sagaris.jpg?raw=true
+}
+
 Третья клавиатура Баунса, прямое продолжение Секиры.
 => https://github.com/bouncepaw/sagaris Гитхаб с литературным исходником
 => https://youtu.be/LchMhXH5n4I демо печати
+
+## Раскладка
+
+img {
+	https://github.com/bouncepaw/sagaris/blob/master/src/pic/layout.png?raw=true
+}
 
 ## Отличия от [[../секира|Секиры]]
 * Другой [[Физическая Раскладка/стаггер | стаггер]]. Что-то среднее между Орто и Катанным стаггером. Получилось неплохо.

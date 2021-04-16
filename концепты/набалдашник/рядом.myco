@@ -1,0 +1,6 @@
+Различные проекты, которые могут вдохновить развитие Набалдашника. Добавляйте сюда что-нибудь.
+
+## Capslock Enhancement
+img { https://raw.githubusercontent.com/Vonng/Capslock/master/images/keyboard.png }
+=> https://github.com/Vonng/Capslock
+Попытка сделать капслок на маке полезным. Здесь его называют [[клавиша/hyper|Гипером]]. Реализовано при помощи [[софт/Karabiner Elements]].

@@ -1,5 +1,12 @@
 Одна из самых популярных ОС, которую нужно поддерживать в плане разработки софта для клавиатур.
 
+## Инструменты
+
+* [[https://steve-key.ucoz.ru/load/klmlite/1-1-0-43|Keyboard Layout Manager]] — вносит изменения в ТЕКУЩУЮ раскладку на компьютере, причём, lite работает отлично без крека и регистрации.
+* [[https://www.microsoft.com/en-us/download/details.aspx?id=22339|Microsoft Keyboard Layout Creator]] (MSKLC) - программа для создания раскладок.
+* [[https://keyman.com/desktop/|Keyman Desktop 11.0]] — программа для переназначения клавиш.
+* [[https://steve-key.ucoz.ru/news/poslednjaja_versija_keyman_4_28_freeware/2010-12-06-3|KeyMan]] — программа для переназначения клавиш, обладает большим списком возможностей.
+
 ## Методы WinAPI для работы с клавиатурами
 Хуки позволяют прослушивать все нажатия клавиатуры, и, если нужно, отменять некоторые из них, чтобы нажать другие. Хуки выставляются функцией [[https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-setwindowshookexa|SetWindowsHookExA]].
 

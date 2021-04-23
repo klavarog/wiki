@@ -6,6 +6,9 @@
 * [[https://www.microsoft.com/en-us/download/details.aspx?id=22339|Microsoft Keyboard Layout Creator]] (MSKLC) - программа для создания раскладок.
 * [[https://keyman.com/desktop/|Keyman Desktop 11.0]] — программа для переназначения клавиш.
 * [[https://steve-key.ucoz.ru/news/poslednjaja_versija_keyman_4_28_freeware/2010-12-06-3|KeyMan]] — программа для переназначения клавиш, обладает большим списком возможностей.
+* [[https://github.com/klavarog/enhanced-keyboard|Enhanced Keyboard]] — программа для переназначения клавиш. Главным отличием данной программы от других является явная возможность создания слоя.
+[[https://code.google.com/archive/p/keyla/wikis/ru_Main.wiki|keyla]] — программа для назначения клавиш переключения раскладок под Windows. Назначает любые клавиши и их сочетания для циклического или «жёсткого» переключения.
+[[https://github.com/samhocevar/wincompose|WinCompose]] — позволяет легко писать специальные символы такие как é ž à ō û ø и так далее.
 
 ## Методы WinAPI для работы с клавиатурами
 Хуки позволяют прослушивать все нажатия клавиатуры, и, если нужно, отменять некоторые из них, чтобы нажать другие. Хуки выставляются функцией [[https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-setwindowshookexa|SetWindowsHookExA]].

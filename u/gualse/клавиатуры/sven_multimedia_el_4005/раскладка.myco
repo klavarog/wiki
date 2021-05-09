@@ -7,6 +7,27 @@ https://kle.klava.org/#/gists/efd3e495f15fa72e4a5443c39e01f4da
 => https://t.me/gualse_rolling/177
 => https://t.me/gualse_rolling/192
 
+## Установка раскладки
+
+~/.config/i3/config:
+```
+exec --no-startup-id setxkbmap us,ru -variant dvp,typewriter -option grp_led:scroll,eurosign:4,lv3:ralt_switch,caps:swapescape,ctrl:swap_lalt_lctl,altwin:alt_super_win; xmodmap .Xmodmap
+```
+~/.Xmodmap:
+```
+keycode 131 = Shift_L
+keycode 130 = space
+keycode  65 = BackSpace
+keycode  22 = Multi_key
+keycode  50 = F13
+keycode  62 = F14
+
+keycode 43 = d D Cyrillic_er Cyrillic_ER Left Left Left Left
+keycode 44 = h H Cyrillic_o Cyrillic_O Down Down Down Down
+keycode 45 = t T Cyrillic_el Cyrillic_EL Up Up Up Up
+keycode 46 = n N Cyrillic_de Cyrillic_DE Right Right Right Right
+```
+
 ## Минусы
 
 * Цифры не совпадают на русской и английской раскладке, это дико, поэтому пишу их с английской раскладки (или с физического нумпада)
@@ -20,4 +41,7 @@ https://kle.klava.org/#/gists/efd3e495f15fa72e4a5443c39e01f4da
 * ~~Исправить припинаки~~
 * ~~Своя раскладка для русского~~
 
-Все TODO будут сделанны на новой клавиатуре созданной с нуля, с этой ничего больше делать не буду
+Все TODO будут сделанны на [[../../unnamed_keyboard|новой клавиатуре]] созданной с нуля, с этой ничего больше делать не буду
+
+А почему бы сейчас не исправить?
+Потому что полно ограничений, начиная от сложности XKB, закачивая отсутствием свободного времени. Да и я уже начал делать свою эргономичную клавиатуру.

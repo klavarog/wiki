@@ -14,7 +14,7 @@ table {
 ### EN:
 
 table {
-| | | | p | y | f | TAB | | ESC | f | g | c | r | l |
+| | | | | p | y | TAB | | ESC | f | g | c | r | l |
 Once⇧ | a | o | e | u | i | Entr | | C-BS | d | h | t | n | s |
 | | ' | q | j | k | x | Del | | BS | b | m | w | v | z | 
 }
@@ -48,7 +48,7 @@ table {
 }
 Символы.
 
-### FUNC
+### FUNCTION:
 
 table {
  | | | | | | | | | | | | | |
@@ -57,7 +57,7 @@ table {
 }
 F-клавиши и прочие клавиши.
 
-### CONTROL
+### CONTROL:
 
 table {
  | | | | | | | | | | | | | |
@@ -66,7 +66,7 @@ table {
 }
 Клавиши для управления музыкой, браузером, может что-то ещё.
 
-### GAME
+### GAME:
 
 table {
 Esc | Tab | q | x | e | r | | | | | | | | |
@@ -75,7 +75,7 @@ Esc | Tab | q | x | e | r | | | | | | | | |
 }
 Слой для игр.
 
-### COMPATIBILITY
+### COMPATIBILITY:
 
 table {
  | | | | | | | | | | | | | |

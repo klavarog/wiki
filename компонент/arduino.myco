@@ -4,3 +4,9 @@
 *. Arduino IDE. Среда разработки второго для первого. Написана на джаве. Слаба как IDE, слаба как редактор кода, но зато удобно прошивать. Есть CLI-интерфейс. 
 *. Arduino CLI. Новый набор утилит, который позволяет делать ардуино-штуки прямо из консоли. Гораздо лучше полузабытого CLI-интерфейса Arduino IDE.
 
+## Клавиатурная библиотека
+Для ардуин с поддержкой USB (к которым относится наша любимая [[./pro micro]] есть специальная библиотека, известная как `Keyboard.h`.
+
+=> https://www.arduino.cc/reference/en/language/functions/usb/keyboard/ Справка
+=> https://github.com/arduino-libraries/Keyboard Репозиторий библиотеки
+=> https://github.com/arduino-libraries/Keyboard/blob/master/src/Keyboard.h Заголовочный файл библиотеки

@@ -10,12 +10,14 @@ img { https://upload.wikimedia.org/wikipedia/commons/e/ec/Space-cadet_keyboard_-
 
 # Наименование
 
-* MacOS зовёт данную клавишу Command.
-* Windows зовёт данную клавишу Win.
+* MacOS зовёт данную клавишу Command (Cmd).
+* Windows зовёт данную клавишу Win (не Windows!)
 * Почти во всех остальных остальных ОС клавиша зовётся Super.
 * Но KDE зовут её Meta.
 * А в i3 и Sway её называют Mod4.
 * Также в USB HID она называется GUI.
+
+[[u/gualse]] считает что название Super лучше всех передаёт суть клавиши, поэтому рекомендует использовать это название.
 
 # Обозначения
 

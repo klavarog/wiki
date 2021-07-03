@@ -208,6 +208,9 @@ QMK слаб не во всём, а только в фичах, касающих
 
 [[https://github.com/kmonad/kmonad/blob/master/keymap/tutorial.kbd#L404|KMonad]].
 
+Интересные фичи:
+* Запуск произвольной консольной команды по нажатию кнопки `cmb-button`.
+
 [[https://github.com/kmonad/kmonad/blob/master/keymap/tutorial.kbd#L404|Такого]] быть не должно. 
 
 # Идеи

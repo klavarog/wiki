@@ -7,7 +7,7 @@
 Как это быстро сделать - например так, если у вас есть мак или линуксовая среда
 
 ```
-grep -wP "^[aoeuidhtns']+$" Downloads/words_alpha.txt
+grep -owP "[aoeuidhtns']+" Downloads/words_alpha.txt > Downloads/words_alpha_homerow.txt
 ```
 
 Далее список слов вбиваем в любом тренажере, например https://monkeytype.com/

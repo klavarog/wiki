@@ -44,12 +44,12 @@ https://github.com/flusq/improved_jorne
 
 ## Oled дисплеи
 Для того чтобы поменять дисплеи местами вам нужно использовать функцию 
-https://github.com/flusq/improved_jorne/blob/main/keymap.c#L227
+https://github.com/flusq/improved-jorne/blob/main/keymap.c#L227
 
 Для того чтобы перевернуть дисплеи используйте функцию 
-https://github.com/flusq/improved_jorne/blob/main/keymap.c#L111
+https://github.com/flusq/improved-jorne/blob/main/keymap.c#L111
 
 ## Вот моя раскладка
 img {
-https://raw.githubusercontent.com/flusq/improved_jorne/main/km.jpg
+https://raw.githubusercontent.com/flusq/improved-jorne/main/km.jpg
 }

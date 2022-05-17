@@ -31,4 +31,4 @@
 
 Функция [[https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-sendinput|SendInput]] позволяет отправлять нажатие клавиатуры.
 
-=> https://github.com/optozorax/moonlander/tree/master/modbind Посмотреть использование этих функций можно в старых программах optozorax'а
+=> https://github.com/optozorax/moonlander/tree/master/modbind | Посмотреть использование этих функций можно в старых программах optozorax'а

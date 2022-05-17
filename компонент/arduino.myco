@@ -7,10 +7,10 @@
 ## Клавиатурная библиотека
 Для ардуин с поддержкой USB (к которым относится наша любимая [[./pro micro]] есть специальная библиотека, известная как `Keyboard.h`.
 
-=> https://www.arduino.cc/reference/en/language/functions/usb/keyboard/ Справка
-=> https://github.com/arduino-libraries/Keyboard Репозиторий библиотеки
-=> https://github.com/arduino-libraries/Keyboard/blob/master/src/Keyboard.h Заголовочный файл библиотеки
+=> https://www.arduino.cc/reference/en/language/functions/usb/keyboard/ | Справка
+=> https://github.com/arduino-libraries/Keyboard | Репозиторий библиотеки
+=> https://github.com/arduino-libraries/Keyboard/blob/master/src/Keyboard.h | Заголовочный файл библиотеки
 
 ## Работа с IDE из консоли
 Если по какой-то причине не хочется или не получается работать с Arduino CLI, можно работать с Arduino IDE из консоли. Можно билдить скеччи, загружать их, всё такое. Работает неплохо.
-=> https://github.com/arduino/Arduino/blob/master/build/shared/manpage.adoc Документация
+=> https://github.com/arduino/Arduino/blob/master/build/shared/manpage.adoc | Документация

@@ -1,18 +1,18 @@
 Здесь собираем **статьи**, найденные на просторах интернета, независимо от языка.
 
-=> https://optozorax.github.io/moonlander-layout Раскладка Ильи Шепрута
+=> https://optozorax.github.io/moonlander-layout | Раскладка Ильи Шепрута
 
-=> https://precondition.github.io/pressing-e-with-the-thumb Pressing E with the thumb‽
-=> https://telegra.ph/YA-ne-ispolzuyu-mysh-04-01 ГуАлСе: Я не использую мышь
-=> u/flusq/jorne_firmware Сказ о том, как flusq себе Jorne прошивал.
-=> https://nbviewer.jupyter.org/github/norvig/pytudes/blob/master/ipynb/Gesture%20Typing.ipynb Статья про оптимизацию клавиатуры для свайпов на телефоне
-=> https://sites.google.com/alanreiser.com/handsdown Хорошо описанная английская раскладка для corne и иже с ним, по цифрам выходит лучшая из существующих
-=> https://thornik.livejournal.com/472554.html Идеальная клавиатура — где ты? (2016)
-=> https://tonsky.me/blog/cursor-keys/ Cursor keys belong at the center of your keyboard, by tonsky
-=> https://artemushanov.ru/?go=all/mehanicheskie-klaviatury-1/ Механические клавиатуры, пост 1
-=> https://blog.scottlogic.com/2020/10/09/ergo-rabbit-hole.html Down the ergonomic keyboard rabbit hole
-=> https://kevinlynagh.com/rust-zig/ Why I rewrote my Rust keyboard firmware in Zig: consistency, mastery, and fun
-=> https://tonsky.livejournal.com/321097.html Клавиатуры и дизайн: tonsky
+=> https://precondition.github.io/pressing-e-with-the-thumb | Pressing E with the thumb‽
+=> https://telegra.ph/YA-ne-ispolzuyu-mysh-04-01 | ГуАлСе: Я не использую мышь
+=> u/flusq/jorne_firmware | Сказ о том, как flusq себе Jorne прошивал.
+=> https://nbviewer.jupyter.org/github/norvig/pytudes/blob/master/ipynb/Gesture%20Typing.ipynb | Статья про оптимизацию клавиатуры для свайпов на телефоне
+=> https://sites.google.com/alanreiser.com/handsdown | Хорошо описанная английская раскладка для corne и иже с ним, по цифрам выходит лучшая из существующих
+=> https://thornik.livejournal.com/472554.html | Идеальная клавиатура — где ты? (2016)
+=> https://tonsky.me/blog/cursor-keys/ | Cursor keys belong at the center of your keyboard, by tonsky
+=> https://artemushanov.ru/?go=all/mehanicheskie-klaviatury-1/ | Механические клавиатуры, пост 1
+=> https://blog.scottlogic.com/2020/10/09/ergo-rabbit-hole.html | Down the ergonomic keyboard rabbit hole
+=> https://kevinlynagh.com/rust-zig/ | Why I rewrote my Rust keyboard firmware in Zig: consistency, mastery, and fun
+=> https://tonsky.livejournal.com/321097.html | Клавиатуры и дизайн: tonsky
 img {
   https://kevinlynagh.com/keyboards/keyboards.jpg {
     [[https://kevinlynagh.com/keyboards/|Notes from a year of building keyboards]] (2021-03-07)

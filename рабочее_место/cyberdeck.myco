@@ -17,6 +17,10 @@ img { https://blog.arduino.cc/wp-content/uploads/2021/01/F6PJL3XKJZQ07KD.jpg }
 => https://www.youtube.com/watch?v=JvbIEimqd0Y | "The Division" SHD Cyberdeck | Part 1 - Features Tour [YouTube]
 Стилизованная под игру The Division кибердека. Суровый чемоданчик с [[клавиатуры/planck | планком]] на борту.
 
+=> https://github.com/penk/MainboardTerminal
+img { https://raw.githubusercontent.com/penk/MainboardTerminal/master/images/mainboard-terminal-heroshot.jpg }
+> Mainboard Terminal is not just any cyberdeck, it's a full-feature PC powered by Framework's Mainboard. It has a 5" (1080x1080) round LCD, a fully 3D printable case, and is compatible with OLKB Preonic mechanical keyboard.
+
 ## Баунс
 2021-08-11 [[u/bouncepaw]]: моё желание сделать кибердеку вновь усилилось. В качестве мозга хочу использовать Orange pi lite, которая раньше выполняла роль домашнего сервера, а сейчас просто в коробочке лежит.
 

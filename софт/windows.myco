@@ -1,6 +1,6 @@
 Одна из самых популярных ОС, которую нужно поддерживать в плане разработки софта для клавиатур.
 
-## Инструменты
+= Инструменты
 
 * [[https://steve-key.ucoz.ru/load/klmlite/1-1-0-43|Keyboard Layout Manager]] — вносит изменения в ТЕКУЩУЮ раскладку на компьютере, причём, lite работает отлично без крека и регистрации.
 * [[https://www.microsoft.com/en-us/download/details.aspx?id=22339|Microsoft Keyboard Layout Creator]] (MSKLC) - программа для создания раскладок.
@@ -26,7 +26,7 @@
 * [[https://code.google.com/archive/p/keyla/wikis/ru_Main.wiki|keyla]] — программа для назначения клавиш переключения раскладок под Windows. Назначает любые клавиши и их сочетания для циклического или «жёсткого» переключения.
 * [[https://github.com/samhocevar/wincompose|WinCompose]] — позволяет легко писать специальные символы такие как é ž à ō û ø и так далее.
 
-## Методы WinAPI для работы с клавиатурами
+= Методы WinAPI для работы с клавиатурами
 Хуки позволяют прослушивать все нажатия клавиатуры, и, если нужно, отменять некоторые из них, чтобы нажать другие. Хуки выставляются функцией [[https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-setwindowshookexa|SetWindowsHookExA]].
 
 Функция [[https://docs.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-sendinput|SendInput]] позволяет отправлять нажатие клавиатуры.

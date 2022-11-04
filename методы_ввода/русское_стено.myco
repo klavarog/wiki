@@ -2,12 +2,12 @@
 
 Возможное решение в [[клавиатуры/stenotoppers|стенотопперах]] и [[софт/qmk/plover|пловере]].
 
-## Русский пловер
+= Русский пловер
 => https://github.com/morinted/plover_russian_trillo
 > The Trillo Russian Realtime stenography system for Plover.
 Это крутая штука или нет?
 
-## Советское стено
+= Советское стено
 > Kanazei: Вот советская стено-раскладка вызывает некоторое доверие.  Но потом, гады, переключились на аудиозапись.
 img {
 ./scheme

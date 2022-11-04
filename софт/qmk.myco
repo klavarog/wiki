@@ -4,7 +4,7 @@
 
 Смотрите также [[https://github.com/Flumeded/ru_mech/blob/master/docs/QMK.md | мехкультовскую статью про QMK]].
 
-## Расширения
+= Расширения
 
 Так как QMK слаб, мы пишем к нему свои расширения, вот их список:
 
@@ -13,12 +13,12 @@
 * [[https://github.com/klavarog/arbitrary_keycode|arbitrary_keycode]] — расширение для создания других расширений. Позволяет нажимать произвольный кейкод.
 * [[https://github.com/klavarog/qmk_bonus|qmk_bonus]] — набор разных мини-библиотек. Самая полезная из них — `rusmap.h`, содержащая синонимы к кикодам QMK, помогающая составлять кириллические ораски. Рекомендуется использовать lang_shift.
 
-## Траблшутинг
+= Траблшутинг
 Иногда на GNU+Linux не получается прошивать контроллеры, когда работает сервис ModemManager. С правами админа исполнить (работает на системах с `systemd`, то есть почти всех):
 ```
 systemctl disable ModemManager.service
 systemctl stop ModemManager.service
 ```
 
-## Оптимизация
+= Оптимизация
 [[https://thomasbaart.nl/2018/12/01/reducing-firmware-size-in-qmk/|Статья]] о том, как сделать код легче и избавиться от лишнего.

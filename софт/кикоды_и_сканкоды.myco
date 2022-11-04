@@ -1,6 +1,6 @@
 В клавиатурах используются понятия **кикод** (key code, код клавиши) и **сканкод** (scan code, код сканирования?). Их надо различать.
 
-## В ЙМК
+= В ЙМК
 Из [[https://docs.qmk.fm/#/reference_glossary?id=keycode|доков]]:
 > A 2-byte number that represents a particular key. 0x00-0xFF are used for Basic Keycodes while 0x100-0xFFFF are used for Quantum Keycodes.
 
@@ -18,7 +18,7 @@
 
 => https://github.com/qmk/qmk_firmware/blob/master/tmk_core/common/keycode.h#L217 | Кикоды в коде ЙМК
 
-## В ОС
+= В ОС
 Я так понимаю, используемый ОС код тоже называется кикодом.
 
 => https://github.com/klavarog/chat/blob/master/input-event-codes.h#L75 | Коды клавиш в X.org

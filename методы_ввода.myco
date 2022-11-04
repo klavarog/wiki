@@ -2,20 +2,20 @@ img { https://cdn.discordapp.com/attachments/785238516509573132/8118321773560463
 
 Всякие методы ввода. 
 
-## Dasher
+= Dasher
 <= ./dasher
 
-## Скринридер
+= Скринридер
 => ./скринридер
 
-## Голосовой ввод
-### Маковский
+= Голосовой ввод
+== Маковский
 На маке из коробки есть неплохой голосовой ввод. На маках 2020 года для него даже отдельную клавишу с микрофоном выделили. Баунс докладывает, что это очень удобно.
 
-### Voice Access (Android)
+== Voice Access (Android)
 => https://www.youtube.com/watch?v=_BftWmG4HaI | Видео Баунса
 
-### Talon
+== Talon
 => https://talonvoice.com/
 
 => https://sporks.space/2021/01/02/careful-with-butter-knives-children/ | “Careful with butter knives, children”:
@@ -23,9 +23,9 @@ img { https://cdn.discordapp.com/attachments/785238516509573132/8118321773560463
 
 > Talon Voice — лучшее, что со мной случилось во время этой травмы. Этот движок хорошо переводит текст в звук; это впечатляет, учитывая, что проект делается одним человеком. У программы высокий порог входа, но она мне сильно помогла. В течение двух месяцев она была моим основным способом использования компьютера.
 
-### Caster
+== Caster
 => https://github.com/dictation-toolbox/Caster
 > Caster is a collection of tools aimed at enabling programming and accessibility entirely by voice built upon the [[https://github.com/dictation-toolbox/dragonfly | Dragonfly]] API.
 
-## Ввод головой
+= Ввод головой
 На маке можно забиндить управление курсором на голову. Двигая её, можно двигать указатель. Баунс докладывает, что это неудобно. Также можно забиндить нажатия клавиш на мимику. Это тоже неудобно.

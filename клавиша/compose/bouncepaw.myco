@@ -2,17 +2,17 @@
 
 Версия 1.1.
 
-## Установка
+= Установка
 *. Сохраните этот файл как `~/.XCompose`
 *. Включите Compose.
 **. Если используете setxkbmap, то можно так: `setxkbmap -option "compose:sclk"`. Это назначит Compose на ScrollLock. Советую так и сделать. А этот самый ScrollLock в прошивке клавы поставьте, куда удобно.
 *. Наслаждайтесь.
 
 ```
-# Стрелочки. В юникоде стрелочек много, сюда добавил только те, что посчитал
-# нужными. Можно добавить ещё.
-# Единичные стрелочки: Compose, направление.
-# Стрелочки хитрее имеют биндинги похитрее.
+= Стрелочки. В юникоде стрелочек много, сюда добавил только те, что посчитал
+= нужными. Можно добавить ещё.
+= Единичные стрелочки: Compose, направление.
+= Стрелочки хитрее имеют биндинги похитрее.
 <Multi_key> <Right>:                              "→"
 <Multi_key> <Left>:                               "←"
 <Multi_key> <Up>:                                 "↑"
@@ -30,7 +30,7 @@
 <Multi_key> <equal> <Up>:                         "⇑"
 <Multi_key> <equal> <Down>:                       "⇓"
 
-# Математические знаки. В юникоде тоже есть много.
+= Математические знаки. В юникоде тоже есть много.
 <Multi_key> <less> <equal>:                       "≤" U2264 # LESS-THAN OR EQUAL
 <Multi_key> <greater> <equal>:                    "≥" U2265 # GREATER-THAN OR EQUAL
 <Multi_key> <equal> <equal> <equal>:              "≡" U2261 # IDENTICAL TO
@@ -40,7 +40,7 @@
 <Multi_key> <slash> <less>:                       "≮" U226E # NOT LESS-THAN
 <Multi_key> <slash> <greater>:                    "≯" U226F # NOT GREATER-THAN
 
-# Эти вот получены коротким мнемоническим названием. Можно так со всеми :)
+= Эти вот получены коротким мнемоническим названием. Можно так со всеми :)
 <Multi_key> <s> <u> <m>:                          "∑" U2211 # N-ARY SUMMATION
 <Multi_key> <p> <r> <o> <d>:                      "∏" U220F # N-ARY PRODUCT
 <Multi_key> <v> <o> <i> <d>:                      "∅" # EMPTY SET
@@ -63,7 +63,7 @@
 <Multi_key> <exclam> <E> <E>:                     "∄" # THERE DOES NOT EXIST
 <Multi_key> <A> <A>:                              "∀" # FOR ALL
 
-# Операторы принадлежности начинаются с пробела.
+= Операторы принадлежности начинаются с пробела.
 <Multi_key> <space> <plus>:                       "∪" # UNION
 <Multi_key> <space> <minus>:                      "∖" # MINUS
 <Multi_key> <space> <asterisk>:                   "∩" # INTERSECTION
@@ -82,7 +82,7 @@
 <Multi_key> <space> <slash> <equal> <parenleft>:  "⊈" # NOT SUBSET OF AND EQUAL
 <Multi_key> <space> <slash> <equal> <parenright>: "⊉" # NOT SUPERSET OF AND EQUAL
 
-# Всякие типографические знаки.
+= Всякие типографические знаки.
 <Multi_key> <o> <o>:                              "•" U2022 # BULLET
 
 <Multi_key> <o> <c>:                              "©" U00A9 # COPYRIGHT SIGN
@@ -101,7 +101,7 @@
 
 <Multi_key> <minus> <minus>:                      "—" U2014 # EM DASH
 
-# Диакритика. Осторожно, может сломать подсветку в редакторе.
+= Диакритика. Осторожно, может сломать подсветку в редакторе.
 <Multi_key> <backslash> <grave>:                  "̀" U0340 # GRAVE TONE:
 <Multi_key> <backslash> <apostrophe>:             "́" U0341 # ACUTE TONE:
 <Multi_key> <backslash> <asciicircum>:            "̂" U0302 # CIRCUMFLEX:
@@ -109,7 +109,7 @@
 <Multi_key> <backslash> <asciitilde>:             "̃" U0303 # TILDE:
 <Multi_key> <backslash> <Right>:                  "⃗" U20D7 # VECTOR:
 
-# Гречица.
+= Гречица.
 <Multi_key> <g> <a>:                              "α" # GREEK SMALL LETTER ALPHA
 <Multi_key> <g> <b>:                              "β" # GREEK SMALL LETTER BETA
 <Multi_key> <g> <g>:                              "γ" # GREEK SMALL LETTER GAMMA
@@ -166,7 +166,7 @@
 <Multi_key> <G> <Y>:                              "Ψ" # GREEK CAPITAL LETTER PSI
 <Multi_key> <G> <W>:                              "Ω" # GREEK CAPITAL LETTER OMEGA
 
-# Дроби, степени и индексы.
+= Дроби, степени и индексы.
 <Multi_key> <1> <slash> <2>:                      "½"
 <Multi_key> <1> <slash> <3>:                      "⅓"
 <Multi_key> <2> <slash> <3>:                      "⅔"

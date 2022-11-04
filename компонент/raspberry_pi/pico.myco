@@ -3,7 +3,7 @@ img { https://www.raspberrypi.org/documentation/pico/getting-started/static/pico
 
 > The new flexible microcontroller board from Raspberry Pi.
 
-## Характеристики
+= Характеристики
 * Оригинальный чип RP2040
 * Двух-ядерный процессор Arm Cortex M0+, 133 МГц
 * 264 КиБ оперативки, ++2 Миб флеша++
@@ -18,11 +18,11 @@ img { https://www.raspberrypi.org/documentation/pico/getting-started/static/pico
 * Ускоренная обработка для чисел с плавающей точкой
 * 8 × Programmable I/O (PIO) state machines for custom peripheral support — что это значит?
 
-## Применение
+= Применение
 См. [[https://www.raspberrypi.org/documentation/pico/getting-started/|оф доки]]. Можно программировать на [[lang/Micro Python]] и на скучных [[lang/c]] и [[lang/cpp]].
 
 На хабре есть [[https://m.habr.com/ru/amp/post/538778/ | обзорная статья]].
 
-## Купить
+= Купить
 Стоит 4 доллара, по идее. Однако в России вроде пока нет продавцов.
 **TODO:** найти продавцов.

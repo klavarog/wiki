@@ -21,8 +21,8 @@
 * [[./варежки|Варежки]]
 
 == Клавиатуры Каназея
-* [[./лучеклава|Лучеклава (RayKey)]]
-* [[./канкорд|Канкорд (KanChord)]]
+* [[Лучеклава]] (RayKey)
+* [[Канкорд]] (KanChord)
 
 == Клавиатура Лоло
 * [[./коряга|Коряга (Snag)]]
@@ -62,4 +62,4 @@
 * [[./textblade|Текстблэйд (TextBlade)]]
 * [[./Esrille|Esrille]]
 * [[./Kyria|Kyria]]
-* [[./key-ripper|Key-Ripper]] - firmware written with Rust
+* [[Key-Ripper]] - firmware written with Rust

@@ -8,58 +8,58 @@
 <= u/bouncepaw/клавиатуры | text blend
 
 == Клавиатура Ежа
-* [[./jian|Жиан (Jian, 鶼)]]
+* [[jian|Жиан (Jian, 鶼)]]
 
 == Клавиатура Steve Key
-* [[./kkeyb|kKeyb]]
+* [[kKeyb]]
 
 == Клавиатуры Вольки
-* [[./catpad|Кошкопад]]
-* [[./кошкоклава|Кошкоклава]]
-* [[./кладенец|Кладенец]]
-* [[./клаварог|Клаварог]]
-* [[./варежки|Варежки]]
+* [[catpad|Кошкопад]]
+* [[Кошкоклава]]
+* [[Кладенец]]
+* [[Клаварог]]
+* [[Варежки]]
 
 == Клавиатуры Каназея
 * [[Лучеклава]] (RayKey)
 * [[Канкорд]] (KanChord)
 
 == Клавиатура Лоло
-* [[./коряга|Коряга (Snag)]]
+* [[коряга|Коряга (Snag)]]
 
 == Клавиатуры Жорика
-* [[./jorian|Жориан (Jorian)]]
-* [[./jorne|Жорне (Jorne)]]
+* [[jorian|Жориан (Jorian)]]
+* [[jorne|Жорне (Jorne)]]
 
 == Клавиатуры Дана
-<= u/daninspace/клавиатуры | text
+<= u/daninspace/клавиатуры | text blend
 
 == Клавиатуры Pupos
-* [[./opri|OPRI (OPtional RIght hand) keyboards]]
+* [[opri|OPRI (OPtional RIght hand) keyboards]]
 
 == Клавиатуры Жёппы
-* [[./Jianovka|Жиановка]]
+* [[Jianovka|Жиановка]]
 * Эрговаки (см. Вакидзаси Баунса)
 
 == Alexander Smirnov
-=> ./manuform_fabis | Manuform Fabis
+=> manuform_fabis | Manuform Fabis
 
 == Не наши разработки
 Дополните список
-* [[./Apple Adjustable Keyboard M1242| Старая сплит клава Apple]]
-* [[./stenotoppers|Стенотопперы (Stenotoppers)]]
-* [[./planck|Планк (Planck)]]
-* [[./octodon|Октодон (Octodon)]]
-* [[./charachorder|Чаракордер (Charachorder)]]
-* [[./corne|Корне (Corne)]]
-* [[./ergodox|Эргодокс (Ergodox)]]
-* [[./redox|Редокс (Redox)]]
-* [[./moonlander|Мунляндер (Moonlander)]]
-* [[./typematrix|Typematrix]]
-* [[./dumang|Дюмань (Dumang DK6)]]
-* [[./ergodex|Эргодекс (Ergodex)]]
-* [[./osk|Экранная клавиатура]]
-* [[./textblade|Текстблэйд (TextBlade)]]
-* [[./Esrille|Esrille]]
-* [[./Kyria|Kyria]]
+* [[Apple Adjustable Keyboard M1242| Старая сплит клава Apple]]
+* [[stenotoppers|Стенотопперы (Stenotoppers)]]
+* [[planck|Планк (Planck)]]
+* [[octodon|Октодон (Octodon)]]
+* [[charachorder|Чаракордер (Charachorder)]]
+* [[corne|Корне (Corne)]]
+* [[ergodox|Эргодокс (Ergodox)]]
+* [[redox|Редокс (Redox)]]
+* [[moonlander|Мунляндер (Moonlander)]]
+* [[typematrix|Typematrix]]
+* [[dumang|Дюмань (Dumang DK6)]]
+* [[ergodex|Эргодекс (Ergodex)]]
+* [[osk|Экранная клавиатура]]
+* [[textblade|Текстблэйд (TextBlade)]]
+* [[Esrille]]
+* [[Kyria]]
 * [[Key-Ripper]] - firmware written with Rust

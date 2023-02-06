@@ -22,12 +22,13 @@
 * [[./karabiner elements]]
 
 == Операционные системы
-* GNU+[[./Linux]]
+* GNU+[[Linux]]
+** [[Android]]
 * [[Mac]]
-* [[./Windows]]
-* [[./BSD]]
-* [[./HaikuOS]]
-* [[./Plan 9]]
+* [[Windows]]
+* [[BSD]]
+* [[HaikuOS]]
+* [[Plan 9]]
 
 = Концепции
 * [[./Идеальный Протокол]]

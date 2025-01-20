@@ -12,8 +12,8 @@
 В рамках сообщества больше всего интересует применение лиспа для разработки ПО под микроконтроллеры или, в частном случае, клавиатуры.
 
 = Ссылки
-=> https://git.sr.ht/~technomancy/menelaus | Menelaus — схемовая прошивка Атреуса
-=> https://m.habr.com/ru/company/macloud/blog/556228/ | Хабр: Lisp для микроконтроллеров
-=> http://www.ulisp.com/ | uLisp, список совместимых устройств
-=> https://picolisp.com/wiki/?home | PicoLisp, домашняя страница
-=> https://www.cliki.net/ | Common Lisp Wiki, исчерпывающий сборник ресурсов по CL
+=> https://git.sr.ht/~technomancy/menelaus | | Menelaus — схемовая прошивка Атреуса
+=> https://m.habr.com/ru/company/macloud/blog/556228/ | | Хабр: Lisp для микроконтроллеров
+=> http://www.ulisp.com/ | | uLisp, список совместимых устройств
+=> https://picolisp.com/wiki/?home | | PicoLisp, домашняя страница
+=> https://www.cliki.net/ | | Common Lisp Wiki, исчерпывающий сборник ресурсов по CL

@@ -6,5 +6,5 @@
 * Симметричный сплит
 * 50 клавиш - по 25 на руку
 * На базе Arduino Pro Micro
-=> http://www.keyboard-layout-editor.com#/gists/56f7cc61441acfe3ac405d8227fa9944 | Раскладка
-=> ./log | Лог создания
+=> http://www.keyboard-layout-editor.com#/gists/56f7cc61441acfe3ac405d8227fa9944 | | Раскладка
+=> ./log | | Лог создания

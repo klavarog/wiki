@@ -7,7 +7,7 @@
 
 `AG_SDOT` вводит точку, пробел и нажимает шифт для следующей клавиши.
 
-=> https://github.com/optozorax/moonlander/tree/master/lang_shift | | Смотрите документацию к lang_shift
+=> https://github.com/optozorax/moonlander/tree/master/lang_shift | Смотрите документацию к lang_shift
 
 = Автопробел в QMK своими силами
 Код, если у вас чистый непатченный ЙМК ↓. Он работает только для одного языка. Реализация поддержки других языков зависит от того, как у вас они реализованы вообще.
@@ -37,4 +37,4 @@ if (record->event.pressed) {
 return false;
 ```
 
-=> https://github.com/optozorax/moonlander/tree/master/arbitrary_keycode | | См. доки
+=> https://github.com/optozorax/moonlander/tree/master/arbitrary_keycode | См. доки
